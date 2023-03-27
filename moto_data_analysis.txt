@@ -1,5 +1,0 @@
-My Analysis:
-Moto Mean Price: $ 33666666.666666664
-Moto Min Price: $ 4000000.0
-Moto Max Price: $ 80000000.0
-Range Price: $ 76000000.0
